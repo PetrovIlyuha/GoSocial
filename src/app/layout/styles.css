@@ -1,0 +1,45 @@
+body {
+  background-color: #b8cbce;
+}
+
+.ui.fixed.menu {
+  background: linear-gradient(to right, #d4d3dd 4%, #efefbb);
+}
+
+.ui.main.container {
+  margin-top: 7rem;
+}
+
+.masthead {
+  display: flex;
+  align-items: center;
+  background-image: url("../../assets/HomeHero.jpg") !important;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+  height: 100vh;
+}
+
+.masthead h1.ui.header {
+  font-size: 3rem;
+}
+
+.react-datepicker-wrapper {
+  width: 100%;
+}
+
+.react-calendar {
+  width: 100%;
+  border: none;
+  margin: 0 auto;
+  border-radius: 10px;
+  margin-top: 20px;
+  box-shadow: 2px 4px 22px rgba(0, 0, 0, 0.25);
+}
+
+.react-calendar__tile--now {
+  border-radius: 5px;
+}
+
+.react-calendar__tile--active {
+  border-radius: 5px;
+}

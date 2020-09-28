@@ -1,9 +1,9 @@
 body {
-  background-color: #b8cbce;
+  background: linear-gradient(to left, #f6d5f7, #fbe9d7);
 }
 
 .ui.fixed.menu {
-  background: linear-gradient(to right, #d4d3dd 4%, #efefbb);
+  background: linear-gradient(to right, #41d48f, #aefb2a);
 }
 
 .ui.main.container {
